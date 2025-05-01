@@ -1,1 +1,0 @@
-export const hostName : string = "https://glennprays.tech"
